@@ -1,0 +1,30 @@
+{
+  "name": "mandiri-scraper",
+  "version": "1.0.3",
+  "description": "Modul ini untuk mendapatkan informasi saldo dan mutasi hari ini bank mandiri",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bank",
+    "mandiri",
+    "cek",
+    "saldo",
+    "mutasi",
+    "rekening",
+    "online"
+  ],
+  "author": "karnadi karnadixyz@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "mandiri-scraper": "^1.0.3",
+    "puppeteer": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karnadixyz/mandiri-scraper.git"
+  },
+  "homepage": "https://github.com/karnadixyz/mandiri-scraper#readme"
+}
